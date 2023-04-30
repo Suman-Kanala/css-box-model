@@ -1,0 +1,28 @@
+/* h1{
+    color:aquamarine;
+} */
+
+#a1{
+    color:red;
+}
+
+.c1{
+    color:blue;
+}
+
+/* h1, h2, p{
+    color:blueviolet;
+} */
+
+.c3{
+    text-transform: uppercase;
+}
+
+.class1{
+    color:crimson;
+}
+
+span{
+    color:blue;
+    text-transform: uppercase;
+}
